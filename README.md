@@ -37,4 +37,8 @@ keybase pgp pull fak3r
 
 ### thanks
 
-openpgp, keybase, github, and... you.
+* Initial inspiration for this repo from [andrewdavidwong/keys](https://github.com/andrewdavidwong/keys)
+* OpenPGP
+* Keybase.io
+* GitHub.com
+* and... you
