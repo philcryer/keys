@@ -1,6 +1,6 @@
 # keys
 
-My OpenPGP keys, in case they're needed, with instructions to use them with the [Keybase](https://keybase.io/) app.
+My OpenPGP keys, in case they're needed, with instructions to use them with the [Keybase](https://keybase.io/) app
 
 ## base
 
@@ -21,7 +21,9 @@ sub  2048R/DF3036DA 2014-12-31 [expires: 2022-12-29]
 * 64-bit:	`04A169CCA79F7188`
 * curl/raw:	[this key](https://keybase.io/fak3r/pgp_keys.asc?fingerprint=a77047c7f6b62c9eb80f326f04a169cca79f7188) | [all PGP keys](https://keybase.io/fak3r/pgp_keys.asc)
 
-## tips from keybase
+## tips 
+
+hat tip to [Keybase](https://keybase.io/) for these tips, aimed at my keys
 
 * curl + gpg pro tip: import fak3r's keys
 ```
