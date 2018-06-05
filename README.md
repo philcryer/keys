@@ -24,10 +24,14 @@ sub  2048R/DF3036DA 2014-12-31 [expires: 2022-12-29]
 ## tips from keybase
 
 * curl + gpg pro tip: import fak3r's keys
-```curl https://keybase.io/fak3r/pgp_keys.asc | gpg --import```
+```
+curl https://keybase.io/fak3r/pgp_keys.asc | gpg --import
+```
 
 * the Keybase app can push to gpg keychain, too
-```keybase pgp pull fak3r```
+```
+keybase pgp pull fak3r
+```
 
 ### thanks
 
