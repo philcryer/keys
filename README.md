@@ -1,6 +1,6 @@
 # keys
 
-My OpenPGP keys, in case they're needed, with instuctions to use them with the [Keybase](https://keybase.io/) app.
+My OpenPGP keys, in case they're needed, with instructions to use them with the [Keybase](https://keybase.io/) app.
 
 ## base
 
